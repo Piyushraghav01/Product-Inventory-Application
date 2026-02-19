@@ -1,1 +1,1 @@
-# Product Inventory App Using NodeJS, ExpressJS, MVC, JavaScript 
+# Product Inventory App Using NodeJS, ExpressJS, MVC, JavaScript
